@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "joel-studio-mcp": {
+      "command": "npx",
+      "args": [
+        "mcp-remote",
+        "https://joel-studio-mcp-production.up.railway.app/mcp"
+      ]
+    }
+  },
+  "preferences": {
+    "localAgentModeTrustedFolders": [
+      "/Users/chitranshitiwari/Desktop/test-images",
+      "/Users/chitranshitiwari/Library/Mobile Documents/com~apple~CloudDocs/Joel Work Workspace/Chitranshi ( Design )/Sketchup-to-photrealistic",
+      "/Users/chitranshitiwari/Desktop/Chitranshi(Work)/Workbench-Chitz/Devanhalli-GD Goenka ppt",
+      "/Users/chitranshitiwari/Desktop/Chitranshi(Work)/Workbench-Chitz/samdep-ppt",
+      "/Users/chitranshitiwari/Desktop/Chitranshi(Work)/Workbench-Chitz/Sameep",
+      "/Users/chitranshitiwari/Desktop/Chitranshi(Work)/Workbench-Chitz/Budget"
+    ],
+    "coworkScheduledTasksEnabled": true,
+    "ccdScheduledTasksEnabled": true,
+    "sidebarMode": "chat",
+    "coworkWebSearchEnabled": true
+  }
+}
